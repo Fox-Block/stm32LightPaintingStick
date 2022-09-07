@@ -1,0 +1,3 @@
+# stm32LightPaintingStick
+使用CubeMX生成在HAL库驱动，添加core文件夹内的文件
+演示代码基于stm32f407ZGT
